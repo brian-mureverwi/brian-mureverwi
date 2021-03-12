@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning ,artificiall intelligence and data science
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on  on any projects in DS,AI and ML.
-- 📫 How to reach me :Brianmureverwi@icloud.com
+- 📫 How to reach me :Brianmureverwi@icloud.com,
                       Brianmureverwi1@gmail.com
                       
 <!---
